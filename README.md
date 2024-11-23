@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm a passionate Software Designer & Developer wit
 
 ---
 ### 📄 Download My CV
-[![Download CV](https://img.shields.io/badge/-Download_CV-0A66C2?logo=download&logoColor=white&style=flat-square)](https://drive.google.com/file/d/13pNBma9DPyqyvZcxRkkh48srvRWqdeZt/view?usp=drive_link)
+[![Download CV](https://img.shields.io/badge/-Download_CV-0A66C2?logo=download&logoColor=white&style=flat-square)](https://drive.google.com/file/d/1jpjChB0k9w2EC2WYO5wcHvbeP6x1XA_1/view?usp=drive_link)
 
 
 ---
