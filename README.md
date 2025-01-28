@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Mohammed Saqeeb Khan M K - Software Designer & Develope at Sevenchats Private Limited!
+# 👋 Hi there, I'm Mohammed Saqeeb Khan M K - Software Designer & Developer!
 
 Welcome to my GitHub profile! I'm a passionate Software Developer with 2+ years of experience with expertise in crafting seamless user experiences and building high-performance applications. I work with modern web technologies, specializing in both frontend and backend development, Skilled in crafting user-centered interfaces,& I excel in combining design aesthetics with robust coding to deliver seamless digital experiences. Proficient in React, JavaScript, and responsive design principles, I bring creativity and technical expertise to each project. Passionate about innovation, I’m always exploring new tools and techniques to build efficient, intuitive applications that delight users.. 
 
@@ -8,6 +8,7 @@ Welcome to my GitHub profile! I'm a passionate Software Developer with 2+ years 
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square) 
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square) 
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=flat-square) 
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square) 
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white&style=flat-square) 
