@@ -1,6 +1,28 @@
-# 👋 Hi there, I'm Mohammed Saqeeb Khan M K - Software Designer & Developer!
+🚀 Software Developer | Full Stack Enthusiast | 2+ Years Experience
 
-Welcome to my GitHub profile! I'm a passionate Software Developer with 2+ years of experience with expertise in crafting seamless user experiences and building high-performance applications. I work with modern web technologies, specializing in both frontend and backend development, Skilled in crafting user-centered interfaces,& I excel in combining design aesthetics with robust coding to deliver seamless digital experiences. Proficient in React, JavaScript, and responsive design principles, I bring creativity and technical expertise to each project. Passionate about innovation, I’m always exploring new tools and techniques to build efficient, intuitive applications that delight users.. 
+Hi there! 👋 I'm a passionate software developer with 2+ years of experience in building modern, scalable, and efficient web applications. I thrive on solving complex problems and crafting seamless user experiences using cutting-edge technologies.
+
+💻 What I Do:
+I specialize in front-end development using React.js, JavaScript, TypeScript, HTML, CSS, Tailwind CSS, and Bootstrap, ensuring pixel-perfect and responsive UI/UX. I also have strong backend expertise in Node.js, SQL, MySQL, and PostgreSQL, where I build robust RESTful APIs, manage databases, and optimize server-side logic for high-performance applications.
+
+🔹 Key Skills & Technologies:
+✔️ Frontend: React.js, Next.js, JavaScript, TypeScript, Redux, HTML, CSS, SCSS, Tailwind CSS, Bootstrap
+✔️ Backend: Node.js, Express.js, SQL, MySQL, PostgreSQL, RESTful APIs
+✔️ Database & Cloud: Firebase, MongoDB, PostgreSQL, MySQL
+✔️ Tools & DevOps: Git, GitHub, Webpack
+✔️ Other Tech:JWT Authentication, Agile Development
+
+💡 What Drives Me?
+✅ Transforming creative ideas into real-world applications
+✅ Writing clean, maintainable, and scalable code
+✅ Enhancing performance, accessibility, and security of web applications
+✅ Continuous learning and contributing to open-source projects
+
+👨‍💻 GitHub & Open Source Contributions:
+I actively contribute to open-source projects and build personal projects to stay ahead of industry trends. My repositories feature projects ranging from full-stack applications, custom React components, API integrations, and much more.
+
+🚀 Let’s Collaborate!
+I’m always open to discussing exciting projects, contributions, and learning opportunities. Feel free to explore my repositories, fork projects, and connect with me!
 
 ---
 
