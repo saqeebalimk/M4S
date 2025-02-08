@@ -1,4 +1,4 @@
-🚀 Software Developer | Full Stack Enthusiast | 2+ Years Experience
+🚀 Software Developer | React.js | JavaScript | TypeScript | Building Scalable & High-Performance Web Applications
 
 Hi there! 👋 I'm a passionate software developer with 2+ years of experience in building modern, scalable, and efficient web applications. I thrive on solving complex problems and crafting seamless user experiences using cutting-edge technologies.
 
