@@ -55,8 +55,15 @@ I’m always open to discussing exciting projects, contributions, and learning o
 ---
 
 ### 🌱 Current Learning Goals
-- Deepening my knowledge of **advanced React patterns**.
-- Exploring **TypeScript** for scalable web applications.
+🚀 2025 Learning Goals
+🔹 Backend Mastery – Strengthen skills in Node.js, SQL, MySQL, and PostgreSQL for efficient database handling and API development.
+🔹 Advanced Frontend Techniques – Improve proficiency in React.js, Next.js 14, and TypeScript, focusing on performance optimization and best practices.
+🔹 Scalability & System Design – Learn database optimization, caching strategies, and microservices architecture.
+🔹 Security Best Practices – Implement secure authentication, authorization (OAuth, JWT), and API security measures.
+🔹 Testing & Performance Optimization – Learn unit testing, integration testing (Jest, Cypress), and performance tuning in React & Node.js.
+🔹 Open Source Contributions – Actively contribute to open-source projects, collaborate with other developers, and enhance problem-solving skills.
+🔹 New & Emerging Technologies – Explore Tailwind CSS, Astro.js, and other innovative web development tools.
+🔹 Exploring Web3 – Understand the basics of Ethereum, smart contracts, and dApp development.
 
 ---
 
