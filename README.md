@@ -5,18 +5,21 @@ Hi there! 👋 I'm a passionate software developer with 2+ years of experience i
 💻 What I Do:
 I specialize in front-end development using React.js, JavaScript, TypeScript, HTML, CSS, Tailwind CSS, and Bootstrap, ensuring pixel-perfect and responsive UI/UX. I also have strong backend expertise in Node.js, SQL, MySQL, and PostgreSQL, where I build robust RESTful APIs, manage databases, and optimize server-side logic for high-performance applications.
 
-🔹 Key Skills & Technologies:
-✔️ Frontend: React.js, Next.js, JavaScript, TypeScript, Redux, HTML, CSS, SCSS, Tailwind CSS, Bootstrap
-✔️ Backend: Node.js, Express.js, SQL, MySQL, PostgreSQL, RESTful APIs
-✔️ Database & Cloud: Firebase, MongoDB, PostgreSQL, MySQL
-✔️ Tools & DevOps: Git, GitHub, Webpack
-✔️ Other Tech:JWT Authentication, Agile Development
+## 🔹 Key Skills & Technologies  
 
-💡 What Drives Me?
-✅ Transforming creative ideas into real-world applications
-✅ Writing clean, maintainable, and scalable code
-✅ Enhancing performance, accessibility, and security of web applications
-✅ Continuous learning and contributing to open-source projects
+- **Frontend:** React.js, Next.js, JavaScript, TypeScript, Redux, HTML, CSS, SCSS, Tailwind CSS, Bootstrap  
+- **Backend:** Node.js, SQL, MySQL, PostgreSQL, RESTful APIs  
+- **Database & Cloud:** Firebase, MongoDB, PostgreSQL, MySQL  
+- **Tools & DevOps:** Git, GitHub, Webpack  
+- **Other Tech:** JWT Authentication, Agile Development  
+
+## 💡 What Drives Me?  
+
+- ✅ Transforming creative ideas into real-world applications  
+- ✅ Writing clean, maintainable, and scalable code  
+- ✅ Enhancing performance, accessibility, and security of web applications  
+- ✅ Continuous learning and contributing to open-source projects  
+
 
 👨‍💻 GitHub & Open Source Contributions:
 I actively contribute to open-source projects and build personal projects to stay ahead of industry trends. My repositories feature projects ranging from full-stack applications, custom React components, API integrations, and much more.
