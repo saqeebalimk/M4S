@@ -7,9 +7,9 @@ I specialize in front-end development using React.js, JavaScript, TypeScript, HT
 
 ## 🔹 Key Skills & Technologies  
 
-- **Frontend:** React.js, Next.js, JavaScript, TypeScript, Redux, HTML, CSS, SCSS, Tailwind CSS, Bootstrap  
+- **Frontend:** React.js, JavaScript, TypeScript, Redux, HTML, CSS, SCSS, Tailwind CSS, Bootstrap  
 - **Backend:** Node.js, SQL, MySQL, PostgreSQL, RESTful APIs  
-- **Database & Cloud:** Firebase, MongoDB, PostgreSQL, MySQL  
+- **Database & Cloud:** MongoDB, PostgreSQL, MySQL  
 - **Tools & DevOps:** Git, GitHub, Webpack  
 - **Other Tech:** JWT Authentication, Agile Development  
 
