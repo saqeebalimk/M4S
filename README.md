@@ -82,7 +82,8 @@ I’m always open to discussing exciting projects, contributions, and learning o
 ### 🧰 Featured Projects
 - **Project 1**: Brief description of the project and [GitHub link](https://github.com/saqeebalimk/Interactive-Boxes.git).
 - **Project 2**: Another cool project and [GitHub link](https://github.com/saqeebalimk/contact-management-app-saqeeb.git).
-
+- **Project 3**: Another cool project and [Web link](https://www.mentorsity.com/)).
+- **Project 4**: Another cool project and [web link](https://ottplatform.mobirisesite.com/).
 ---
 
 ![Profile views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen)
