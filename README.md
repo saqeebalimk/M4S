@@ -19,7 +19,7 @@ I specialize in front-end development using React.js, JavaScript, TypeScript, HT
 - ✅ Writing clean, maintainable, and scalable code  
 - ✅ Enhancing performance, accessibility, and security of web applications  
 - ✅ Continuous learning and contributing to open-source projects  
-
+- ✅ Content Creator
 
 👨‍💻 GitHub & Open Source Contributions:
 I actively contribute to open-source projects and build personal projects to stay ahead of industry trends. My repositories feature projects ranging from full-stack applications, custom React components, API integrations, and much more.
