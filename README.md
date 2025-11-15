@@ -34,6 +34,8 @@ I’m always open to discussing exciting projects, contributions, and learning o
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square) 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=flat-square) 
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square) 
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white&style=flat-square) 
@@ -56,7 +58,7 @@ I’m always open to discussing exciting projects, contributions, and learning o
 
 ---
 ### 📄 Download My CV
-[![Download CV](https://img.shields.io/badge/-Download_CV-0A66C2?logo=download&logoColor=white&style=flat-square)](https://drive.google.com/file/d/1-YrriHjEhCZKUheTddYkMGyLpLkxUHjz/view?usp=sharing)
+[![Download CV](https://img.shields.io/badge/-Download_CV-0A66C2?logo=download&logoColor=white&style=flat-square)](https://drive.google.com/file/d/1KnVBymr45_IU89Db068GuH7HcbpVds2x/view?usp=drive_link)
 
 
 ---
@@ -70,7 +72,7 @@ I’m always open to discussing exciting projects, contributions, and learning o
 - **Security Best Practices** – Implement **secure authentication, authorization (OAuth, JWT), and API security** measures.  
 - **Testing & Performance Optimization** – Learn **unit testing, integration testing (Jest, Cypress)**, and performance tuning in React & Node.js.  
 - **Open Source Contributions** – Actively contribute to **open-source projects**, collaborate with other developers, and enhance problem-solving skills.  
-- **New & Emerging Technologies** – Explore **Tailwind CSS, Astro.js**, and other innovative web development tools.  
+- **New & Emerging Technologies** – Explore **Tailwind CSS,**, and other innovative web development tools.  
 - **Exploring Web3** – Understand the basics of **Ethereum, smart contracts, and dApp development**.  
 
 ---
